@@ -1,0 +1,7 @@
+node_modules/
+__pycache__/
+*.pyc
+.venv/
+backend/credora.db
+backend/.secrets.json
+.DS_Store

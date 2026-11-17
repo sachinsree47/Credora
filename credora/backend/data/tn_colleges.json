@@ -1,0 +1,2335 @@
+{
+"source": "Anna University Centre for Affiliation of Institutions, district-wise lists (TNEA counselling codes), plus university campuses",
+"colleges": [
+{
+"code": "1334",
+"name": "A R S College of Engineering",
+"district": "Kancheepuram"
+},
+{
+"code": "2636",
+"name": "A V S Engineering College",
+"district": "Salem"
+},
+{
+"code": "1441",
+"name": "A.K.T. Memorial College of Engineering and Technology",
+"district": "Kallakurichi"
+},
+{
+"code": "4937",
+"name": "A.R. College of Engineering and Technology",
+"district": "Tenkasi"
+},
+{
+"code": "1436",
+"name": "A.R. Engineering College",
+"district": "Villupuram"
+},
+{
+"code": "3821",
+"name": "A.R.J. College of Engineering and Technology",
+"district": "Tiruvarur"
+},
+{
+"code": "3801",
+"name": "A.V.C. College of Engineering",
+"district": "Mayiladuthurai"
+},
+{
+"code": "4680",
+"name": "AAA College of Engineering and Technology",
+"district": "Virudhunagar"
+},
+{
+"code": "1135",
+"name": "Aalim Muhammed Salegh Academy of Architecture",
+"district": "Thiruvallur"
+},
+{
+"code": "1101",
+"name": "Aalim Muhammed Salegh College of Engineering",
+"district": "Thiruvallur"
+},
+{
+"code": "1233",
+"name": "Adhi College of Engineering and Technology",
+"district": "Kancheepuram"
+},
+{
+"code": "1501",
+"name": "Adhiparasakthi College of Engineering",
+"district": "Ranipet"
+},
+{
+"code": "1401",
+"name": "Adhiparasakthi Engineering College",
+"district": "Chengalpattu"
+},
+{
+"code": "2601",
+"name": "Adhiyamaan College of Engineering",
+"district": "Krishnagiri"
+},
+{
+"code": "2744",
+"name": "Adithya Institute of Technology",
+"district": "Coimbatore"
+},
+{
+"code": "1316",
+"name": "Agni College of Technology",
+"district": "Chengalpattu"
+},
+{
+"code": "2332",
+"name": "Aishwarya College of Engineering and Technology",
+"district": "Erode"
+},
+{
+"code": "2763",
+"name": "Akshaya College of Engineering and Technology",
+"district": "Coimbatore"
+},
+{
+"code": "2652",
+"name": "Al-Ameen Engineering College",
+"district": "Erode"
+},
+{
+"code": "5901",
+"name": "Alagappa Chettiar Government College of Engineering and Technology",
+"district": "Sivaganga"
+},
+{
+"code": "1228",
+"name": "Alpha College of Engineering",
+"district": "Thiruvallur"
+},
+{
+"code": "4972",
+"name": "Amrita College of Engineering and Technology",
+"district": "Kanyakumari"
+},
+{
+"code": "1303",
+"name": "Anand Institute of Higher Technology",
+"district": "Chengalpattu"
+},
+{
+"code": "2733",
+"name": "Angel College of Engineering and Technology",
+"district": "Tiruppur"
+},
+{
+"code": "3803",
+"name": "Anjalai Ammal Mahalingam Engineering College",
+"district": "Tiruvarur"
+},
+{
+"code": "5010",
+"name": "Anna University Regional Campus, Madurai",
+"district": "Madurai"
+},
+{
+"code": "4020",
+"name": "Anna University Regional Campus, Tirunelveli",
+"district": "Tirunelveli"
+},
+{
+"code": "3849",
+"name": "Annai College of Engineering and Technology",
+"district": "Thanjavur"
+},
+{
+"code": "2602",
+"name": "Annai Mathammal Sheela Engineering College",
+"district": "Namakkal"
+},
+{
+"code": "1137",
+"name": "Annai Mira College of Engineering and Technology",
+"district": "Ranipet"
+},
+{
+"code": "1402",
+"name": "Annai Teresa College of Engineering",
+"district": "Kallakurichi"
+},
+{
+"code": "4999",
+"name": "Annai Vailankanni College of Engineering",
+"district": "Kanyakumari"
+},
+{
+"code": "1133",
+"name": "Annai Veilankanni's College of Engineering",
+"district": "Chengalpattu"
+},
+{
+"code": "5",
+"name": "Annamalai University, Faculty of Engineering and Technology",
+"district": "Cuddalore"
+},
+{
+"code": "1524",
+"name": "Annamalaiar College of Engineering",
+"district": "Tiruvannamalai"
+},
+{
+"code": "2648",
+"name": "Annapoorana Engineering College",
+"district": "Salem"
+},
+{
+"code": "1230",
+"name": "Apollo Engineering College",
+"district": "Kancheepuram"
+},
+{
+"code": "3804",
+"name": "Arasu Engineering College",
+"district": "Thanjavur"
+},
+{
+"code": "3461",
+"name": "Arifa Institute of Technology",
+"district": "Nagapattinam"
+},
+{
+"code": "3462",
+"name": "Ariyalur Engineering College",
+"district": "Ariyalur"
+},
+{
+"code": "2367",
+"name": "Arjun College of Technology",
+"district": "Coimbatore"
+},
+{
+"code": "1232",
+"name": "ARM College of Engineering and Technology",
+"district": "Kancheepuram"
+},
+{
+"code": "4979",
+"name": "Arul Tharum VPMM College of Engineering and Technology",
+"district": "Virudhunagar"
+},
+{
+"code": "1503",
+"name": "Arulmigu Meenakshi Amman College of Engineering",
+"district": "Tiruvannamalai"
+},
+{
+"code": "2356",
+"name": "Arulmurugan College of Engineering",
+"district": "Karur"
+},
+{
+"code": "4944",
+"name": "Arunachala College of Engineering for Women",
+"district": "Kanyakumari"
+},
+{
+"code": "1504",
+"name": "Arunai Engineering College",
+"district": "Tiruvannamalai"
+},
+{
+"code": "3855",
+"name": "As-Salam College of Engineering and Technology",
+"district": "Thanjavur"
+},
+{
+"code": "1423",
+"name": "Asan Memorial College of Engineering and Technology",
+"district": "Chengalpattu"
+},
+{
+"code": "2338",
+"name": "Asian College of Engineering and Technology",
+"district": "Coimbatore"
+},
+{
+"code": "2347",
+"name": "AVS College of Technology",
+"district": "Salem"
+},
+{
+"code": "2702",
+"name": "Bannari Amman Institute of Technology",
+"district": "Erode"
+},
+{
+"code": "4992",
+"name": "Bethlahem Institute of Engineering",
+"district": "Kanyakumari"
+},
+{
+"code": "5902",
+"name": "Bharath Niketan Engineering College",
+"district": "Theni"
+},
+{
+"code": "1519",
+"name": "Bharathidasan Engineering College",
+"district": "Tirupathur"
+},
+{
+"code": "2643",
+"name": "Bharathiyar Institute of Engineering for Women",
+"district": "Salem"
+},
+{
+"code": "2656",
+"name": "Builders Engineering College",
+"district": "Tiruppur"
+},
+{
+"code": "2772",
+"name": "C M S College of Engineering and Technology",
+"district": "Coimbatore"
+},
+{
+"code": "1505",
+"name": "C. Abdul Hakeem College of Engineering and Technology",
+"district": "Ranipet"
+},
+{
+"code": "3784",
+"name": "C.A.R.E. School of Architecture",
+"district": "Tiruchirappalli"
+},
+{
+"code": "3425",
+"name": "C.K. College of Engineering and Technology",
+"district": "Cuddalore"
+},
+{
+"code": "4952",
+"name": "C.S.I. Institute of Technology",
+"district": "Kanyakumari"
+},
+{
+"code": "1152",
+"name": "CAAD - Chennai Academy of Architecture and Design",
+"district": "Thiruvallur"
+},
+{
+"code": "4953",
+"name": "Cape Institute of Technology",
+"district": "Tirunelveli"
+},
+{
+"code": "3841",
+"name": "CARE College of Engineering",
+"district": "Tiruchirappalli"
+},
+{
+"code": "5012",
+"name": "Central Electrochemical Research Institute (CSIR), Karaikudi",
+"district": "Sivaganga"
+},
+{
+"code": "1321",
+"name": "Central Institute of Petrochemicals Engineering and Technology",
+"district": "Chennai"
+},
+{
+"code": "3926",
+"name": "Chendhuran College of Engineering and Technology",
+"district": "Pudukkottai"
+},
+{
+"code": "1444",
+"name": "Chendu College of Engineering and Technology",
+"district": "Chengalpattu"
+},
+{
+"code": "1399",
+"name": "Chennai Institute of Technology",
+"district": "Kancheepuram"
+},
+{
+"code": "1398",
+"name": "Chennai Institute of Technology and Applied Research",
+"district": "Kancheepuram"
+},
+{
+"code": "2378",
+"name": "Cherraan College of Technology",
+"district": "Tiruppur"
+},
+{
+"code": "2630",
+"name": "Chettinad College of Engineering and Technology",
+"district": "Karur"
+},
+{
+"code": "2650",
+"name": "Christ The King Engineering College",
+"district": "Coimbatore"
+},
+{
+"code": "5703",
+"name": "Christian College of Engineering and Technology",
+"district": "Dindigul"
+},
+{
+"code": "2635",
+"name": "CMS College of Engineering",
+"district": "Namakkal"
+},
+{
+"code": "2704",
+"name": "Coimbatore Institute of Engineering and Technology",
+"district": "Coimbatore"
+},
+{
+"code": "2007",
+"name": "Coimbatore Institute of Technology",
+"district": "Coimbatore"
+},
+{
+"code": "2705",
+"name": "CSI College of Engineering",
+"district": "The Nilgiris"
+},
+{
+"code": "1202",
+"name": "D.M.I. College of Engineering",
+"district": "Kancheepuram"
+},
+{
+"code": "1424",
+"name": "Dhaanish Ahmed College of Engineering",
+"district": "Kancheepuram"
+},
+{
+"code": "2349",
+"name": "Dhaanish Ahmed Institute of Technology",
+"district": "Coimbatore"
+},
+{
+"code": "1405",
+"name": "Dhanalakshmi College of Engineering",
+"district": "Kancheepuram"
+},
+{
+"code": "2743",
+"name": "Dhanalakshmi Srinivasan College of Engineering",
+"district": "Coimbatore"
+},
+{
+"code": "1322",
+"name": "Dhanalakshmi Srinivasan College of Engineering and Technology",
+"district": "Chengalpattu"
+},
+{
+"code": "3805",
+"name": "Dhanalakshmi Srinivasan Engineering College",
+"district": "Perambalur"
+},
+{
+"code": "2345",
+"name": "Dhirajlal Gandhi College of Technology",
+"district": "Salem"
+},
+{
+"code": "4946",
+"name": "DMI Engineering College",
+"district": "Kanyakumari"
+},
+{
+"code": "4975",
+"name": "Dr. G.U. Pope College of Engineering",
+"district": "Thoothukudi"
+},
+{
+"code": "2706",
+"name": "Dr. Mahalingam College of Engineering and Technology",
+"district": "Coimbatore"
+},
+{
+"code": "2736",
+"name": "Dr. N G P Institute of Technology",
+"district": "Coimbatore"
+},
+{
+"code": "3822",
+"name": "Dr. Navalar Nedunchezhiyan College of Engineering",
+"district": "Cuddalore"
+},
+{
+"code": "4954",
+"name": "Dr. Sivanthi Aditanar College of Engineering",
+"district": "Thoothukudi"
+},
+{
+"code": "3806",
+"name": "E.G.S. Pillay Engineering College",
+"district": "Nagapattinam"
+},
+{
+"code": "1428",
+"name": "E.S. College of Engineering and Technology",
+"district": "Villupuram"
+},
+{
+"code": "2749",
+"name": "Easa College of Engineering and Technology",
+"district": "Coimbatore"
+},
+{
+"code": "1304",
+"name": "Easwari Engineering College",
+"district": "Thiruvallur"
+},
+{
+"code": "4980",
+"name": "Einstein College of Engineering",
+"district": "Tirunelveli"
+},
+{
+"code": "2621",
+"name": "Er. Perumal Manimekalai College of Engineering",
+"district": "Krishnagiri"
+},
+{
+"code": "2707",
+"name": "Erode Sengunthar Engineering College",
+"district": "Erode"
+},
+{
+"code": "2667",
+"name": "Excel College of Architecture and Planning",
+"district": "Namakkal"
+},
+{
+"code": "2634",
+"name": "Excel Engineering College",
+"district": "Namakkal"
+},
+{
+"code": "5935",
+"name": "Fatima Michael College of Engineering and Technology",
+"district": "Madurai"
+},
+{
+"code": "4955",
+"name": "Francis Xavier Engineering College",
+"district": "Tirunelveli"
+},
+{
+"code": "1407",
+"name": "G.K.M. College of Engineering and Technology",
+"district": "Chengalpattu"
+},
+{
+"code": "1238",
+"name": "G.R.T. Institute of Engineering and Technology",
+"district": "Thiruvallur"
+},
+{
+"code": "1507",
+"name": "Ganadipathy Tulsi's Jain Engineering College",
+"district": "Vellore"
+},
+{
+"code": "5924",
+"name": "Ganapathy Chettiar College of Engineering and Technology",
+"district": "Ramanathapuram"
+},
+{
+"code": "2341",
+"name": "Ganesh College of Engineering",
+"district": "Salem"
+},
+{
+"code": "1523",
+"name": "Global Institute of Engineering and Technology",
+"district": "Ranipet"
+},
+{
+"code": "2624",
+"name": "Gnanamani College of Technology",
+"district": "Namakkal"
+},
+{
+"code": "1123",
+"name": "Gojan School of Business and Technology",
+"district": "Thiruvallur"
+},
+{
+"code": "4686",
+"name": "Good Shepherd College of Engineering and Technology",
+"district": "Kanyakumari"
+},
+{
+"code": "2603",
+"name": "Government College of Engineering, Bargur",
+"district": "Krishnagiri"
+},
+{
+"code": "5009",
+"name": "Government College of Engineering, Bodinayakkanur",
+"district": "Theni"
+},
+{
+"code": "2369",
+"name": "Government College of Engineering, Dharmapuri",
+"district": "Dharmapuri"
+},
+{
+"code": "2709",
+"name": "Government College of Engineering, Erode",
+"district": "Erode"
+},
+{
+"code": "2615",
+"name": "Government College of Engineering, Salem",
+"district": "Salem"
+},
+{
+"code": "3465",
+"name": "Government College of Engineering, Srirangam",
+"district": "Tiruchirappalli"
+},
+{
+"code": "3464",
+"name": "Government College of Engineering, Thanjavur",
+"district": "Thanjavur"
+},
+{
+"code": "4974",
+"name": "Government College of Engineering, Tirunelveli",
+"district": "Tirunelveli"
+},
+{
+"code": "2005",
+"name": "Government College of Technology, Coimbatore",
+"district": "Coimbatore"
+},
+{
+"code": "4931",
+"name": "Grace College of Engineering",
+"district": "Thoothukudi"
+},
+{
+"code": "2708",
+"name": "Hindusthan College of Engineering and Technology",
+"district": "Coimbatore"
+},
+{
+"code": "2740",
+"name": "Hindusthan Institute of Technology",
+"district": "Coimbatore"
+},
+{
+"code": "2373",
+"name": "Hindusthan School of Architecture",
+"district": "Coimbatore"
+},
+{
+"code": "4934",
+"name": "Holy Cross Engineering College",
+"district": "Thoothukudi"
+},
+{
+"code": "1605",
+"name": "Idhaya Engineering College for Women",
+"district": "Kallakurichi"
+},
+{
+"code": "1408",
+"name": "IFET College of Engineering",
+"district": "Villupuram"
+},
+{
+"code": "3845",
+"name": "Imayam College of Engineering",
+"district": "Tiruchirappalli"
+},
+{
+"code": "4932",
+"name": "Immanuel Arasar J J College of Engineering",
+"district": "Kanyakumari"
+},
+{
+"code": "2343",
+"name": "Indian Institute of Handloom Technology",
+"district": "Salem"
+},
+{
+"code": "1229",
+"name": "Indira Institute of Engineering and Technology",
+"district": "Thiruvallur"
+},
+{
+"code": "3831",
+"name": "Indra Ganesan College of Engineering",
+"district": "Tiruchirappalli"
+},
+{
+"code": "4976",
+"name": "Infant Jesus College of Engineering",
+"district": "Thoothukudi"
+},
+{
+"code": "2732",
+"name": "INFO Institute of Engineering",
+"district": "Coimbatore"
+},
+{
+"code": "2769",
+"name": "J C T College of Engineering and Technology",
+"district": "Coimbatore"
+},
+{
+"code": "2758",
+"name": "J K K Munirajah College of Technology",
+"district": "Erode"
+},
+{
+"code": "1126",
+"name": "J N N Institute of Engineering",
+"district": "Thiruvallur"
+},
+{
+"code": "4994",
+"name": "J P College of Engineering",
+"district": "Tenkasi"
+},
+{
+"code": "3807",
+"name": "J.J. College of Engineering and Technology",
+"district": "Tiruchirappalli"
+},
+{
+"code": "2647",
+"name": "J.K.K. Nataraja College of Engineering and Technology",
+"district": "Namakkal"
+},
+{
+"code": "2651",
+"name": "Jai Shriram Engineering College",
+"district": "Tiruppur"
+},
+{
+"code": "5537",
+"name": "Jainee College of Engineering and Technology",
+"district": "Dindigul"
+},
+{
+"code": "2350",
+"name": "Jairupaa College of Engineering",
+"district": "Tiruppur"
+},
+{
+"code": "2762",
+"name": "Jansons Institute of Technology",
+"district": "Coimbatore"
+},
+{
+"code": "1221",
+"name": "Jaya College of Engineering and Technology",
+"district": "Thiruvallur"
+},
+{
+"code": "1106",
+"name": "Jaya Engineering College",
+"district": "Thiruvallur"
+},
+{
+"code": "1107",
+"name": "Jaya Institute of Technology",
+"district": "Thiruvallur"
+},
+{
+"code": "1416",
+"name": "Jaya Sakthi Engineering College",
+"district": "Thiruvallur"
+},
+{
+"code": "2640",
+"name": "Jayalakshmi Institute of Technology",
+"district": "Dharmapuri"
+},
+{
+"code": "4956",
+"name": "Jayamatha Engineering College",
+"district": "Kanyakumari"
+},
+{
+"code": "4957",
+"name": "Jayaraj Annapackiam CSI College of Engineering",
+"district": "Thoothukudi"
+},
+{
+"code": "3808",
+"name": "Jayaram College of Engineering and Technology",
+"district": "Tiruchirappalli"
+},
+{
+"code": "1235",
+"name": "JEI Mathaajee College of Engineering",
+"district": "Kancheepuram"
+},
+{
+"code": "1306",
+"name": "Jeppiaar Engineering College",
+"district": "Chengalpattu"
+},
+{
+"code": "1140",
+"name": "Jeppiaar Institute of Technology",
+"district": "Kancheepuram"
+},
+{
+"code": "1307",
+"name": "Jerusalem College of Engineering",
+"district": "Chengalpattu"
+},
+{
+"code": "2764",
+"name": "K P R Institute of Engineering and Technology",
+"district": "Coimbatore"
+},
+{
+"code": "3830",
+"name": "K. Ramakrishnan College of Engineering",
+"district": "Tiruchirappalli"
+},
+{
+"code": "3701",
+"name": "K. Ramakrishnan College of Technology",
+"district": "Tiruchirappalli"
+},
+{
+"code": "1311",
+"name": "K.C.G. College of Technology",
+"district": "Chengalpattu"
+},
+{
+"code": "5904",
+"name": "K.L.N. College of Engineering",
+"district": "Sivaganga"
+},
+{
+"code": "2607",
+"name": "K.S. Rangasamy College of Technology",
+"district": "Namakkal"
+},
+{
+"code": "3456",
+"name": "K.S.K. College of Engineering and Technology",
+"district": "Thanjavur"
+},
+{
+"code": "2613",
+"name": "K.S.R. College of Engineering",
+"district": "Namakkal"
+},
+{
+"code": "2328",
+"name": "K.S.R. Institute for Engineering and Technology",
+"district": "Namakkal"
+},
+{
+"code": "4959",
+"name": "Kamaraj College of Engineering and Technology",
+"district": "Virudhunagar"
+},
+{
+"code": "5533",
+"name": "Karaikudi Institute of Technology",
+"district": "Sivaganga"
+},
+{
+"code": "1409",
+"name": "Karpaga Vinayaga College of Engineering and Technology",
+"district": "Chengalpattu"
+},
+{
+"code": "2710",
+"name": "Karpagam College of Engineering",
+"district": "Coimbatore"
+},
+{
+"code": "2735",
+"name": "Karpagam Institute of Technology",
+"district": "Coimbatore"
+},
+{
+"code": "2745",
+"name": "Kathir College of Engineering",
+"district": "Coimbatore"
+},
+{
+"code": "2751",
+"name": "KGISL Institute of Technology",
+"district": "Coimbatore"
+},
+{
+"code": "3905",
+"name": "Kings College of Engineering",
+"district": "Pudukkottai"
+},
+{
+"code": "1207",
+"name": "Kings Engineering College",
+"district": "Kancheepuram"
+},
+{
+"code": "1520",
+"name": "Kingston Engineering College",
+"district": "Vellore"
+},
+{
+"code": "2750",
+"name": "KIT - Kalaignarkarunanidhi Institute of Technology",
+"district": "Coimbatore"
+},
+{
+"code": "2653",
+"name": "Knowledge Institute of Technology",
+"district": "Salem"
+},
+{
+"code": "2711",
+"name": "Kongu Engineering College",
+"district": "Erode"
+},
+{
+"code": "2344",
+"name": "Kongu School of Architecture",
+"district": "Erode"
+},
+{
+"code": "3826",
+"name": "Kongunadu College of Engineering and Technology",
+"district": "Tiruchirappalli"
+},
+{
+"code": "3410",
+"name": "Krishnasamy College of Engineering and Technology",
+"district": "Cuddalore"
+},
+{
+"code": "2712",
+"name": "Kumaraguru College of Technology",
+"district": "Coimbatore"
+},
+{
+"code": "3809",
+"name": "Kurinji College of Engineering and Technology",
+"district": "Tiruchirappalli"
+},
+{
+"code": "5990",
+"name": "Latha Mathavan Engineering College",
+"district": "Madurai"
+},
+{
+"code": "4983",
+"name": "Lord Jegannath College of Engineering and Technology",
+"district": "Kanyakumari"
+},
+{
+"code": "4677",
+"name": "Lourdes Mount College of Engineering and Technology",
+"district": "Kanyakumari"
+},
+{
+"code": "1225",
+"name": "Loyola Institute of Technology",
+"district": "Kancheepuram"
+},
+{
+"code": "4993",
+"name": "Loyola Institute of Technology and Science",
+"district": "Kanyakumari"
+},
+{
+"code": "1450",
+"name": "Loyola – ICAM College of Engineering and Technology",
+"district": "Chennai"
+},
+{
+"code": "3843",
+"name": "M R K Institute of Technology",
+"district": "Cuddalore"
+},
+{
+"code": "2608",
+"name": "M. Kumarasamy College of Engineering",
+"district": "Karur"
+},
+{
+"code": "3810",
+"name": "M.A.M. College of Engineering",
+"district": "Tiruchirappalli"
+},
+{
+"code": "3829",
+"name": "M.A.M. College of Engineering and Technology",
+"district": "Tiruchirappalli"
+},
+{
+"code": "3786",
+"name": "M.A.M. School of Engineering",
+"district": "Tiruchirappalli"
+},
+{
+"code": "4929",
+"name": "M.E.T. Engineering College",
+"district": "Kanyakumari"
+},
+{
+"code": "3811",
+"name": "M.I.E.T. Engineering College",
+"district": "Tiruchirappalli"
+},
+{
+"code": "2713",
+"name": "M.P. Nachimuthu M. Jaganathan Engineering College",
+"district": "Erode"
+},
+{
+"code": "1411",
+"name": "Madha Engineering College",
+"district": "Kancheepuram"
+},
+{
+"code": "1243",
+"name": "Madha Institute of Engineering and Technology",
+"district": "Kancheepuram"
+},
+{
+"code": "1430",
+"name": "Maha Barathi Engineering College",
+"district": "Kallakurichi"
+},
+{
+"code": "4998",
+"name": "Mahakavi Bharathiyar College of Engineering and Technology",
+"district": "Tenkasi"
+},
+{
+"code": "3403",
+"name": "Mahalakshmi Engineering College",
+"district": "Tiruchirappalli"
+},
+{
+"code": "3854",
+"name": "Mahath Amma Institute of Engineering and Technology",
+"district": "Pudukkottai"
+},
+{
+"code": "2623",
+"name": "Mahendra College of Engineering",
+"district": "Salem"
+},
+{
+"code": "2609",
+"name": "Mahendra Engineering College",
+"district": "Namakkal"
+},
+{
+"code": "2638",
+"name": "Mahendra Engineering College for Women",
+"district": "Namakkal"
+},
+{
+"code": "2632",
+"name": "Mahendra Institute of Technology",
+"district": "Namakkal"
+},
+{
+"code": "1412",
+"name": "Mailam Engineering College",
+"district": "Villupuram"
+},
+{
+"code": "5536",
+"name": "Mangayarkarasi College of Engineering",
+"district": "Madurai"
+},
+{
+"code": "4928",
+"name": "Mar Ephraem College of Engineering and Technology",
+"district": "Kanyakumari"
+},
+{
+"code": "1130",
+"name": "MARG Institute of Design and Architecture Swarnabhoomi (MIDAS)",
+"district": "Chengalpattu"
+},
+{
+"code": "4927",
+"name": "Maria College of Engineering and Technology",
+"district": "Kanyakumari"
+},
+{
+"code": "4984",
+"name": "Marthandam College of Engineering and Technology",
+"district": "Kanyakumari"
+},
+{
+"code": "2759",
+"name": "McGan's Ooty School of Architecture",
+"district": "The Nilgiris"
+},
+{
+"code": "1308",
+"name": "Measi Academy of Architecture",
+"district": "Chennai"
+},
+{
+"code": "1509",
+"name": "Meenakshi College of Engineering",
+"district": "Chennai"
+},
+{
+"code": "3857",
+"name": "Meenakshi Ramaswamy Engineering College",
+"district": "Ariyalur"
+},
+{
+"code": "1309",
+"name": "Meenakshi Sundararajan Engineering College",
+"district": "Chennai"
+},
+{
+"code": "4960",
+"name": "Mepco Schlenk Engineering College",
+"district": "Virudhunagar"
+},
+{
+"code": "1310",
+"name": "Misrimal Navajee Munoth Jain Engineering College",
+"district": "Chengalpattu"
+},
+{
+"code": "1146",
+"name": "Misrimal Navajee Munoth Jain School of Architecture",
+"district": "Chengalpattu"
+},
+{
+"code": "3923",
+"name": "MNSK College of Engineering",
+"district": "Pudukkottai"
+},
+{
+"code": "5907",
+"name": "Mohamed Sathak Engineering College",
+"district": "Ramanathapuram"
+},
+{
+"code": "1400",
+"name": "Mohammed Sathak A.J. Academy of Architecture",
+"district": "Chengalpattu"
+},
+{
+"code": "1301",
+"name": "Mohammed Sathak A.J. College of Engineering",
+"district": "Chengalpattu"
+},
+{
+"code": "3812",
+"name": "Mookambigai College of Engineering",
+"district": "Pudukkottai"
+},
+{
+"code": "3846",
+"name": "Mother Terasa College of Engineering and Technology",
+"district": "Pudukkottai"
+},
+{
+"code": "3908",
+"name": "Mount Zion College of Engineering and Technology",
+"district": "Pudukkottai"
+},
+{
+"code": "2314",
+"name": "Muthayammal College of Engineering",
+"district": "Namakkal"
+},
+{
+"code": "2610",
+"name": "Muthayammal Engineering College",
+"district": "Namakkal"
+},
+{
+"code": "5832",
+"name": "N P R College of Engineering and Technology",
+"district": "Dindigul"
+},
+{
+"code": "2327",
+"name": "N.S.N. College of Engineering and Technology",
+"district": "Karur"
+},
+{
+"code": "5865",
+"name": "Nadar Saraswathi College of Engineering and Technology",
+"district": "Theni"
+},
+{
+"code": "2752",
+"name": "Nandha College of Technology",
+"district": "Erode"
+},
+{
+"code": "2715",
+"name": "Nandha Engineering College",
+"district": "Erode"
+},
+{
+"code": "4977",
+"name": "Narayanaguru College of Engineering",
+"district": "Kanyakumari"
+},
+{
+"code": "4962",
+"name": "National Engineering College",
+"district": "Thoothukudi"
+},
+{
+"code": "1531",
+"name": "National Institute of Technical Teachers Training and Research",
+"district": "Chennai"
+},
+{
+"code": "2729",
+"name": "Nehru Institute of Engineering and Technology",
+"district": "Coimbatore"
+},
+{
+"code": "2755",
+"name": "Nehru Institute of Technology",
+"district": "Coimbatore"
+},
+{
+"code": "2365",
+"name": "Nehru School of Architecture",
+"district": "Coimbatore"
+},
+{
+"code": "4961",
+"name": "Nellai College of Engineering",
+"district": "Tirunelveli"
+},
+{
+"code": "3466",
+"name": "Nelliandavar Institute of Technology",
+"district": "Ariyalur"
+},
+{
+"code": "1431",
+"name": "New Prince Shri Bhavani College of Engineering and Technology",
+"district": "Chengalpattu"
+},
+{
+"code": "4986",
+"name": "Noorul Islam College of Engineering and Technology",
+"district": "Kanyakumari"
+},
+{
+"code": "3782",
+"name": "OASYS Institute of Technology",
+"district": "Tiruchirappalli"
+},
+{
+"code": "1529",
+"name": "Oxford College of Engineering",
+"district": "Tiruvannamalai"
+},
+{
+"code": "3813",
+"name": "Oxford Engineering College",
+"district": "Tiruchirappalli"
+},
+{
+"code": "2741",
+"name": "P A College of Engineering and Technology",
+"district": "Coimbatore"
+},
+{
+"code": "1222",
+"name": "P.B. College of Engineering",
+"district": "Kancheepuram"
+},
+{
+"code": "2612",
+"name": "P.G.P. College of Engineering and Technology",
+"district": "Namakkal"
+},
+{
+"code": "3814",
+"name": "P.R. Engineering College",
+"district": "Thanjavur"
+},
+{
+"code": "2006",
+"name": "P.S.G. College of Technology",
+"district": "Coimbatore"
+},
+{
+"code": "4965",
+"name": "P.S.R. Engineering College",
+"district": "Virudhunagar"
+},
+{
+"code": "4995",
+"name": "P.S.R.R. College of Engineering",
+"district": "Virudhunagar"
+},
+{
+"code": "2642",
+"name": "P.S.V. College of Engineering and Technology",
+"district": "Krishnagiri"
+},
+{
+"code": "1226",
+"name": "P.T. Lee Chengalvaraya Naicker College of Engineering and Technology",
+"district": "Chengalpattu"
+},
+{
+"code": "5911",
+"name": "P.T.R. College of Engineering and Technology",
+"district": "Madurai"
+},
+{
+"code": "2628",
+"name": "Paavai College of Engineering",
+"district": "Namakkal"
+},
+{
+"code": "2611",
+"name": "Paavai Engineering College",
+"district": "Namakkal"
+},
+{
+"code": "1209",
+"name": "Pallavan College of Engineering",
+"district": "Kancheepuram"
+},
+{
+"code": "5912",
+"name": "Pandian Saraswathi Yadav Engineering College",
+"district": "Sivaganga"
+},
+{
+"code": "1210",
+"name": "Panimalar Engineering College",
+"district": "Thiruvallur"
+},
+{
+"code": "1530",
+"name": "Papni School of Architecture",
+"district": "Kancheepuram"
+},
+{
+"code": "3833",
+"name": "Parisutham Institute of Technology and Science",
+"district": "Thanjavur"
+},
+{
+"code": "2716",
+"name": "Park College of Engineering and Technology",
+"district": "Coimbatore"
+},
+{
+"code": "2768",
+"name": "Park College of Technology",
+"district": "Coimbatore"
+},
+{
+"code": "2372",
+"name": "Park Institute of Architecture",
+"district": "Coimbatore"
+},
+{
+"code": "3815",
+"name": "Pavendar Bharathidasan College of Engineering and Technology",
+"district": "Tiruchirappalli"
+},
+{
+"code": "1452",
+"name": "PERI Institute of Technology",
+"district": "Chengalpattu"
+},
+{
+"code": "4966",
+"name": "PET Engineering College",
+"district": "Tirunelveli"
+},
+{
+"code": "1125",
+"name": "PMR Engineering College",
+"district": "Thiruvallur"
+},
+{
+"code": "1525",
+"name": "Podhigai College of Engineering and Technology",
+"district": "Tirupathur"
+},
+{
+"code": "2354",
+"name": "Pollachi Institute of Engineering and Technology",
+"district": "Coimbatore"
+},
+{
+"code": "4981",
+"name": "Ponjesly College of Engineering",
+"district": "Kanyakumari"
+},
+{
+"code": "2753",
+"name": "PPG Institute of Technology",
+"district": "Coimbatore"
+},
+{
+"code": "1110",
+"name": "Prathyusha Engineering College",
+"district": "Thiruvallur"
+},
+{
+"code": "3446",
+"name": "Prime College of Architecture and Planning",
+"district": "Nagapattinam"
+},
+{
+"code": "3467",
+"name": "Prime Nest College of Architecture and Planning",
+"district": "Tiruchirappalli"
+},
+{
+"code": "1442",
+"name": "Prince Dr. K. Vasudevan College of Engineering and Technology",
+"district": "Chengalpattu"
+},
+{
+"code": "1414",
+"name": "Prince Shri Venkateshwara Padmavathy Engineering College",
+"district": "Chengalpattu"
+},
+{
+"code": "1510",
+"name": "Priyadarshini Engineering College",
+"district": "Tirupathur"
+},
+{
+"code": "2379",
+"name": "PSG Institute of Architecture and Planning",
+"district": "Coimbatore"
+},
+{
+"code": "2377",
+"name": "PSG Institute of Technology and Applied Research",
+"district": "Coimbatore"
+},
+{
+"code": "4964",
+"name": "PSN College of Engineering and Technology",
+"district": "Tirunelveli"
+},
+{
+"code": "4989",
+"name": "PSN Engineering College",
+"district": "Tirunelveli"
+},
+{
+"code": "4949",
+"name": "PSN Institute of Technology and Science",
+"district": "Tirunelveli"
+},
+{
+"code": "5910",
+"name": "PSNA College of Engineering and Technology",
+"district": "Dindigul"
+},
+{
+"code": "2639",
+"name": "R P Sarathy Institute of Technology",
+"district": "Salem"
+},
+{
+"code": "2731",
+"name": "R V S College of Engineering and Technology",
+"district": "Coimbatore"
+},
+{
+"code": "1112",
+"name": "R.M.D. Engineering College",
+"district": "Thiruvallur"
+},
+{
+"code": "1128",
+"name": "R.M.K. College of Engineering and Technology",
+"district": "Thiruvallur"
+},
+{
+"code": "1113",
+"name": "R.M.K. Engineering College",
+"district": "Thiruvallur"
+},
+{
+"code": "5913",
+"name": "R.V.S. College of Engineering",
+"district": "Dindigul"
+},
+{
+"code": "5862",
+"name": "R.V.S. Educational Trust's Group of Institutions",
+"district": "Dindigul"
+},
+{
+"code": "2778",
+"name": "R.V.S. School of Architecture",
+"district": "Coimbatore"
+},
+{
+"code": "2776",
+"name": "R.V.S. Technical Campus Coimbatore",
+"district": "Coimbatore"
+},
+{
+"code": "1211",
+"name": "Rajalakshmi Engineering College",
+"district": "Kancheepuram"
+},
+{
+"code": "1432",
+"name": "Rajalakshmi Institute of Technology",
+"district": "Thiruvallur"
+},
+{
+"code": "1132",
+"name": "Rajalakshmi School of Architecture",
+"district": "Kancheepuram"
+},
+{
+"code": "4948",
+"name": "Rajas Institute of Technology",
+"district": "Kanyakumari"
+},
+{
+"code": "1212",
+"name": "Rajiv Gandhi College of Engineering",
+"district": "Kancheepuram"
+},
+{
+"code": "4678",
+"name": "Ramco Institute of Technology",
+"district": "Virudhunagar"
+},
+{
+"code": "2779",
+"name": "Ranganathan Architecture College",
+"district": "Coimbatore"
+},
+{
+"code": "1511",
+"name": "Ranippettai Engineering College",
+"district": "Ranipet"
+},
+{
+"code": "2376",
+"name": "Rathinam School of Architecture",
+"district": "Coimbatore"
+},
+{
+"code": "2684",
+"name": "Rathinam School of Architecture and Design",
+"district": "Coimbatore"
+},
+{
+"code": "2329",
+"name": "Rathinam Technical Campus",
+"district": "Coimbatore"
+},
+{
+"code": "4676",
+"name": "Renganayagi Varatharaj College of Engineering",
+"district": "Virudhunagar"
+},
+{
+"code": "3817",
+"name": "Roever Engineering College",
+"district": "Perambalur"
+},
+{
+"code": "4670",
+"name": "Rohini College of Engineering and Technology",
+"district": "Kanyakumari"
+},
+{
+"code": "1437",
+"name": "Rrase College of Engineering",
+"district": "Kancheepuram"
+},
+{
+"code": "1144",
+"name": "RVS Padmavathy School of Architecture",
+"district": "Thiruvallur"
+},
+{
+"code": "4967",
+"name": "S. Veerasamy Chettiar College of Engineering and Technology",
+"district": "Tenkasi"
+},
+{
+"code": "1114",
+"name": "S.A. Engineering College",
+"district": "Thiruvallur"
+},
+{
+"code": "1512",
+"name": "S.K.P. Engineering College",
+"district": "Tiruvannamalai"
+},
+{
+"code": "1213",
+"name": "S.K.R. Engineering College",
+"district": "Thiruvallur"
+},
+{
+"code": "2614",
+"name": "S.S.M. College of Engineering",
+"district": "Namakkal"
+},
+{
+"code": "5915",
+"name": "SACS M.A.V.M.M. Engineering College",
+"district": "Madurai"
+},
+{
+"code": "2659",
+"name": "Salem College of Engineering and Technology",
+"district": "Salem"
+},
+{
+"code": "1124",
+"name": "Sams College of Engineering and Technology",
+"district": "Thiruvallur"
+},
+{
+"code": "2348",
+"name": "San Academy of Architecture",
+"district": "Coimbatore"
+},
+{
+"code": "2616",
+"name": "Sapthagiri College of Engineering",
+"district": "Dharmapuri"
+},
+{
+"code": "3819",
+"name": "Saranathan College of Engineering",
+"district": "Tiruchirappalli"
+},
+{
+"code": "1449",
+"name": "Saraswathy College of Engineering and Technology",
+"district": "Villupuram"
+},
+{
+"code": "4968",
+"name": "Sardar Raja College of Engineering",
+"district": "Tenkasi"
+},
+{
+"code": "2361",
+"name": "Sasi Creative School of Architecture",
+"district": "Coimbatore"
+},
+{
+"code": "2717",
+"name": "Sasurie College of Engineering",
+"district": "Tiruppur"
+},
+{
+"code": "4943",
+"name": "Satyam College of Engineering and Technology",
+"district": "Kanyakumari"
+},
+{
+"code": "1216",
+"name": "Saveetha Engineering College",
+"district": "Kancheepuram"
+},
+{
+"code": "5930",
+"name": "SBM College of Engineering and Technology",
+"district": "Dindigul"
+},
+{
+"code": "4969",
+"name": "SCAD College of Engineering and Technology",
+"district": "Tirunelveli"
+},
+{
+"code": "3",
+"name": "School of Architecture and Planning, Anna University (SAP Campus)",
+"district": "Chennai"
+},
+{
+"code": "2364",
+"name": "School of Architecture, Coimbatore Institute of Engineering and Technology",
+"district": "Coimbatore"
+},
+{
+"code": "2627",
+"name": "Selvam College of Technology",
+"district": "Namakkal"
+},
+{
+"code": "3859",
+"name": "Sembodai Rukmani Varatharajan Engineering College",
+"district": "Nagapattinam"
+},
+{
+"code": "2617",
+"name": "Sengunthar Engineering College",
+"district": "Namakkal"
+},
+{
+"code": "4917",
+"name": "Sethu Institute of Technology",
+"district": "Virudhunagar"
+},
+{
+"code": "3918",
+"name": "Shanmuganathan Engineering College",
+"district": "Pudukkottai"
+},
+{
+"code": "3844",
+"name": "Shivani Engineering College",
+"district": "Tiruchirappalli"
+},
+{
+"code": "2346",
+"name": "Shree Sathyam College of Engineering and Technology",
+"district": "Salem"
+},
+{
+"code": "2747",
+"name": "Shree Venkateshwara Hi-Tech Engineering College",
+"district": "Erode"
+},
+{
+"code": "2683",
+"name": "Shreenivasa Engineering College",
+"district": "Dharmapuri"
+},
+{
+"code": "3802",
+"name": "Shri Angalamman College of Engineering and Technology",
+"district": "Tiruchirappalli"
+},
+{
+"code": "4671",
+"name": "Sigma College of Architecture",
+"district": "Kanyakumari"
+},
+{
+"code": "3760",
+"name": "Sir Issac Newton College of Engineering and Technology",
+"district": "Nagapattinam"
+},
+{
+"code": "4938",
+"name": "Sivaji College of Engineering and Technology",
+"district": "Kanyakumari"
+},
+{
+"code": "1313",
+"name": "SMK Fomra Institute of Technology",
+"district": "Chengalpattu"
+},
+{
+"code": "2734",
+"name": "SNS College of Engineering",
+"district": "Coimbatore"
+},
+{
+"code": "2726",
+"name": "SNS College of Technology",
+"district": "Coimbatore"
+},
+{
+"code": "5914",
+"name": "Solamalai College of Engineering",
+"district": "Madurai"
+},
+{
+"code": "2618",
+"name": "Sona College of Technology",
+"district": "Salem"
+},
+{
+"code": "1438",
+"name": "Sree Krishna College of Engineering",
+"district": "Vellore"
+},
+{
+"code": "2673",
+"name": "Sree Sakthi Engineering College",
+"district": "Coimbatore"
+},
+{
+"code": "1217",
+"name": "Sree Sastha Institute of Engineering and Technology",
+"district": "Thiruvallur"
+},
+{
+"code": "4970",
+"name": "Sree Sowdambika College of Engineering",
+"district": "Virudhunagar"
+},
+{
+"code": "2767",
+"name": "SRG Engineering College",
+"district": "Namakkal"
+},
+{
+"code": "1513",
+"name": "Sri Balaji Chockalingam Engineering College",
+"district": "Tiruvannamalai"
+},
+{
+"code": "3852",
+"name": "Sri Bharathi Engineering College for Women",
+"district": "Pudukkottai"
+},
+{
+"code": "2739",
+"name": "Sri Eshwar College of Engineering",
+"district": "Coimbatore"
+},
+{
+"code": "1150",
+"name": "Sri Jayaram Institute of Engineering and Technology",
+"district": "Thiruvallur"
+},
+{
+"code": "1526",
+"name": "Sri Krishna College of Engineering",
+"district": "Ranipet"
+},
+{
+"code": "2718",
+"name": "Sri Krishna College of Engineering and Technology",
+"district": "Coimbatore"
+},
+{
+"code": "2722",
+"name": "Sri Krishna College of Technology",
+"district": "Coimbatore"
+},
+{
+"code": "1427",
+"name": "Sri Krishna Engineering College",
+"district": "Kancheepuram"
+},
+{
+"code": "1335",
+"name": "Sri Krishna Institute of Technology",
+"district": "Kancheepuram"
+},
+{
+"code": "1218",
+"name": "Sri Muthukumaran Institute of Technology",
+"district": "Kancheepuram"
+},
+{
+"code": "1514",
+"name": "Sri Nandhanam College of Engineering and Technology",
+"district": "Vellore"
+},
+{
+"code": "5502",
+"name": "Sri Raaja Raajan College of Engineering and Technology",
+"district": "Sivaganga"
+},
+{
+"code": "3454",
+"name": "Sri Ramakrishna College of Engineering",
+"district": "Perambalur"
+},
+{
+"code": "2719",
+"name": "Sri Ramakrishna Engineering College",
+"district": "Coimbatore"
+},
+{
+"code": "2725",
+"name": "Sri Ramakrishna Institute of Technology",
+"district": "Coimbatore"
+},
+{
+"code": "1426",
+"name": "Sri Ramanujar Engineering College",
+"district": "Chengalpattu"
+},
+{
+"code": "2342",
+"name": "Sri Ranganathar Institute of Engineering and Technology",
+"district": "Coimbatore"
+},
+{
+"code": "1445",
+"name": "Sri Rangapoopathi College of Engineering",
+"district": "Villupuram"
+},
+{
+"code": "1419",
+"name": "Sri Sai Ram Engineering College",
+"district": "Kancheepuram"
+},
+{
+"code": "1324",
+"name": "Sri Sai Ram Institute of Technology",
+"district": "Kancheepuram"
+},
+{
+"code": "2737",
+"name": "Sri Sai Ranganathan Engineering College",
+"district": "Coimbatore"
+},
+{
+"code": "2727",
+"name": "Sri Shakthi Institute of Engineering and Technology",
+"district": "Coimbatore"
+},
+{
+"code": "2302",
+"name": "Sri Shanmugha College of Engineering and Technology",
+"district": "Salem"
+},
+{
+"code": "1315",
+"name": "Sri Sivasubramaniya Nadar College of Engineering",
+"district": "Chengalpattu"
+},
+{
+"code": "1219",
+"name": "Sri Venkateswara College of Engineering",
+"district": "Kancheepuram"
+},
+{
+"code": "1116",
+"name": "Sri Venkateswara College of Engineering and Technology",
+"district": "Thiruvallur"
+},
+{
+"code": "1121",
+"name": "Sri Venkateswara Institute of Science and Technology",
+"district": "Thiruvallur"
+},
+{
+"code": "1413",
+"name": "Sri Venkateswaraa College of Technology",
+"district": "Kancheepuram"
+},
+{
+"code": "4996",
+"name": "Sri Vidya College of Engineering and Technology",
+"district": "Virudhunagar"
+},
+{
+"code": "1115",
+"name": "Sriram Engineering College",
+"district": "Thiruvallur"
+},
+{
+"code": "5842",
+"name": "SRM Madurai College for Engineering and Technology",
+"district": "Sivaganga"
+},
+{
+"code": "3795",
+"name": "SRM TRP Engineering College",
+"district": "Tiruchirappalli"
+},
+{
+"code": "1422",
+"name": "SRM Valliammai Engineering College",
+"district": "Chengalpattu"
+},
+{
+"code": "5530",
+"name": "SSM Institute of Engineering and Technology",
+"district": "Dindigul"
+},
+{
+"code": "3860",
+"name": "St. Anne's College of Engineering and Technology",
+"district": "Cuddalore"
+},
+{
+"code": "1325",
+"name": "St. Joseph College of Engineering",
+"district": "Kancheepuram"
+},
+{
+"code": "1317",
+"name": "St. Joseph's College of Engineering",
+"district": "Chengalpattu"
+},
+{
+"code": "3825",
+"name": "St. Joseph's College of Engineering and Technology",
+"district": "Thanjavur"
+},
+{
+"code": "1149",
+"name": "St. Joseph's Institute of Technology",
+"district": "Chengalpattu"
+},
+{
+"code": "5919",
+"name": "St. Michael College of Engineering and Technology",
+"district": "Sivaganga"
+},
+{
+"code": "4933",
+"name": "St. Mother Theresa Engineering College",
+"district": "Thoothukudi"
+},
+{
+"code": "1127",
+"name": "St. Peter's College of Engineering and Technology",
+"district": "Thiruvallur"
+},
+{
+"code": "4971",
+"name": "St. Xavier's Catholic College of Engineering",
+"district": "Kanyakumari"
+},
+{
+"code": "3766",
+"name": "Star Lion College of Engineering and Technology",
+"district": "Thanjavur"
+},
+{
+"code": "4672",
+"name": "Stella Mary's College of Engineering",
+"district": "Kanyakumari"
+},
+{
+"code": "2770",
+"name": "Studyworld College of Engineering",
+"district": "Coimbatore"
+},
+{
+"code": "3920",
+"name": "Sudharsan Engineering College",
+"district": "Pudukkottai"
+},
+{
+"code": "2360",
+"name": "Suguna College of Engineering",
+"district": "Coimbatore"
+},
+{
+"code": "3460",
+"name": "Surya College of Engineering",
+"district": "Tiruchirappalli"
+},
+{
+"code": "2748",
+"name": "Surya Engineering College",
+"district": "Erode"
+},
+{
+"code": "1434",
+"name": "Surya Group of Institutions",
+"district": "Villupuram"
+},
+{
+"code": "5921",
+"name": "Syed Ammal Engineering College",
+"district": "Ramanathapuram"
+},
+{
+"code": "1318",
+"name": "T.J. Institute of Technology",
+"district": "Chengalpattu"
+},
+{
+"code": "1241",
+"name": "T.J.S. Engineering College",
+"district": "Thiruvallur"
+},
+{
+"code": "1415",
+"name": "T.S.M. Jain College of Technology",
+"district": "Kallakurichi"
+},
+{
+"code": "1420",
+"name": "Tagore Engineering College",
+"district": "Chengalpattu"
+},
+{
+"code": "2646",
+"name": "Tagore Institute of Engineering and Technology",
+"district": "Salem"
+},
+{
+"code": "2721",
+"name": "Tamilnadu College of Engineering",
+"district": "Coimbatore"
+},
+{
+"code": "2728",
+"name": "Tamilnadu School of Architecture",
+"district": "Coimbatore"
+},
+{
+"code": "4669",
+"name": "Thamirabharani Engineering College",
+"district": "Tirunelveli"
+},
+{
+"code": "1319",
+"name": "Thangavelu Engineering College",
+"district": "Chengalpattu"
+},
+{
+"code": "1516",
+"name": "Thanthai Periyar Government Institute of Technology",
+"district": "Vellore"
+},
+{
+"code": "2625",
+"name": "The Kavery Engineering College",
+"district": "Salem"
+},
+{
+"code": "5988",
+"name": "Theni Kammavar Sangam College of Technology",
+"district": "Theni"
+},
+{
+"code": "5008",
+"name": "Thiagarajar College of Engineering",
+"district": "Madurai"
+},
+{
+"code": "1517",
+"name": "Thirumalai Engineering College",
+"district": "Kancheepuram"
+},
+{
+"code": "1518",
+"name": "Thiruvalluvar College of Engineering and Technology",
+"district": "Tiruvannamalai"
+},
+{
+"code": "3820",
+"name": "Trichy Engineering College",
+"district": "Tiruchirappalli"
+},
+{
+"code": "4978",
+"name": "Udaya School of Engineering",
+"district": "Kanyakumari"
+},
+{
+"code": "5942",
+"name": "Ultra College of Engineering and Technology",
+"district": "Madurai"
+},
+{
+"code": "2761",
+"name": "United Institute of Technology",
+"district": "Coimbatore"
+},
+{
+"code": "4675",
+"name": "Universal College of Engineering and Technology",
+"district": "Tirunelveli"
+},
+{
+"code": "1015",
+"name": "University College of Engineering, Arni",
+"district": "Tiruvannamalai"
+},
+{
+"code": "3011",
+"name": "University College of Engineering, BIT Campus, Tiruchirappalli",
+"district": "Tiruchirappalli"
+},
+{
+"code": "5022",
+"name": "University College of Engineering, Dindigul",
+"district": "Dindigul"
+},
+{
+"code": "4023",
+"name": "University College of Engineering, Nagercoil",
+"district": "Kanyakumari"
+},
+{
+"code": "3021",
+"name": "University College of Engineering, Panruti",
+"district": "Cuddalore"
+},
+{
+"code": "5017",
+"name": "University College of Engineering, Ramanathapuram",
+"district": "Ramanathapuram"
+},
+{
+"code": "1014",
+"name": "University College of Engineering, Tindivanam",
+"district": "Villupuram"
+},
+{
+"code": "1013",
+"name": "University College of Engineering, Villupuram",
+"district": "Villupuram"
+},
+{
+"code": "2",
+"name": "University Departments of Anna University, ACT Campus",
+"district": "Chennai"
+},
+{
+"code": "1",
+"name": "University Departments of Anna University, CEG Campus",
+"district": "Chennai"
+},
+{
+"code": "4",
+"name": "University Departments of Anna University, MIT Campus",
+"district": "Chennai"
+},
+{
+"code": "4024",
+"name": "University V.O.C. College of Engineering, Thoothukudi",
+"district": "Thoothukudi"
+},
+{
+"code": "4941",
+"name": "Unnamalai Institute of Technology",
+"district": "Thoothukudi"
+},
+{
+"code": "2658",
+"name": "V S A Group of Institutions",
+"district": "Salem"
+},
+{
+"code": "4864",
+"name": "V V College of Engineering",
+"district": "Thoothukudi"
+},
+{
+"code": "4679",
+"name": "V.P.M.M. College of Architecture for Women",
+"district": "Virudhunagar"
+},
+{
+"code": "1421",
+"name": "V.R.S. College of Engineering and Technology",
+"district": "Villupuram"
+},
+{
+"code": "2357",
+"name": "V.S.B. College of Engineering Technical Campus",
+"district": "Coimbatore"
+},
+{
+"code": "2622",
+"name": "V.S.B. Engineering College",
+"district": "Karur"
+},
+{
+"code": "5532",
+"name": "Vaigai College of Engineering",
+"district": "Madurai"
+},
+{
+"code": "3848",
+"name": "Vandayar Engineering College",
+"district": "Thanjavur"
+},
+{
+"code": "2641",
+"name": "Varuvan Vadivelan Institute of Technology",
+"district": "Dharmapuri"
+},
+{
+"code": "5851",
+"name": "Veerammal Engineering College",
+"district": "Dindigul"
+},
+{
+"code": "1122",
+"name": "Vel Tech High Tech Dr. Rangarajan Dr. Sakunthala Engineering College",
+"district": "Thiruvallur"
+},
+{
+"code": "1118",
+"name": "Vel Tech Multi Tech Dr. Rangarajan Dr. Sakunthala Engineering College",
+"district": "Thiruvallur"
+},
+{
+"code": "2723",
+"name": "Velalar College of Engineering and Technology",
+"district": "Erode"
+},
+{
+"code": "5986",
+"name": "Velammal College of Engineering and Technology",
+"district": "Madurai"
+},
+{
+"code": "1120",
+"name": "Velammal Engineering College",
+"district": "Thiruvallur"
+},
+{
+"code": "1237",
+"name": "Velammal Institute of Technology",
+"district": "Thiruvallur"
+},
+{
+"code": "3850",
+"name": "Vetri Vinayaha College of Engineering and Technology",
+"district": "Tiruchirappalli"
+},
+{
+"code": "2633",
+"name": "Vidyaa Vikas College of Engineering and Technology",
+"district": "Namakkal"
+},
+{
+"code": "4982",
+"name": "VINS Christian College of Engineering",
+"district": "Kanyakumari"
+},
+{
+"code": "2368",
+"name": "Vishnu Lakshmi College of Engineering and Technology",
+"district": "Coimbatore"
+},
+{
+"code": "2620",
+"name": "Vivekanandha College of Engineering for Women",
+"district": "Namakkal"
+},
+{
+"code": "2661",
+"name": "Vivekanandha College of Technology for Women",
+"district": "Namakkal"
+}
+]
+}

@@ -1,0 +1,112 @@
+{
+ "note": "SAMPLE scholarships for the prototype. Names, amounts and dates are illustrative, not real schemes.",
+ "items": [
+  {
+   "kind": "scholarship",
+   "title": "State Merit Scholarship for Engineering",
+   "provider": "Sample State Education Department",
+   "amount": "₹50,000 per year",
+   "deadline": "2026-11-30",
+   "description": "For engineering students with strong academic results and limited family income.",
+   "criteria": {
+    "max_income": 800000,
+    "min_cgpa": 7.5
+   }
+  },
+  {
+   "kind": "scholarship",
+   "title": "Cyber Security Skills Fellowship",
+   "provider": "Sample Digital Skills Foundation",
+   "amount": "₹25,000 one time",
+   "deadline": "2026-12-12",
+   "description": "Supports students specialising in cyber security and information technology.",
+   "criteria": {
+    "departments": [
+     "Cyber Security",
+     "Information Technology",
+     "Computer Science and Engineering"
+    ]
+   }
+  },
+  {
+   "kind": "scholarship",
+   "title": "First-Generation Learner Grant",
+   "provider": "Sample Education Trust",
+   "amount": "₹30,000 per year",
+   "deadline": "2026-12-20",
+   "description": "For students who are the first in their family to attend college.",
+   "criteria": {
+    "max_income": 500000
+   }
+  },
+  {
+   "kind": "scholarship",
+   "title": "Women in Technology Scholarship",
+   "provider": "Sample Tech Council",
+   "amount": "₹40,000 per year",
+   "deadline": "2026-12-05",
+   "description": "Encourages women studying engineering and technology.",
+   "criteria": {
+    "gender": [
+     "Female"
+    ]
+   }
+  },
+  {
+   "kind": "scholarship",
+   "title": "Post-Matric Scholarship (SC/ST/OBC)",
+   "provider": "Sample Social Welfare Department",
+   "amount": "Full tuition fee",
+   "deadline": "2026-12-31",
+   "description": "Tuition support for students from reserved categories.",
+   "criteria": {
+    "categories": [
+     "SC",
+     "ST",
+     "OBC"
+    ],
+    "max_income": 250000
+   }
+  },
+  {
+   "kind": "scholarship",
+   "title": "Rural Talent Scholarship",
+   "provider": "Sample Rural Development Foundation",
+   "amount": "₹20,000 per year",
+   "deadline": "2026-12-15",
+   "description": "For students from rural districts studying professional courses.",
+   "criteria": {
+    "max_income": 600000,
+    "min_cgpa": 6.5
+   }
+  },
+  {
+   "kind": "scholarship",
+   "title": "Maharashtra Technical Education Award",
+   "provider": "Sample State Technical Board",
+   "amount": "₹35,000 per year",
+   "deadline": "2026-12-10",
+   "description": "For students whose home state is Maharashtra.",
+   "criteria": {
+    "states": [
+     "Maharashtra"
+    ],
+    "min_cgpa": 7.0
+   }
+  },
+  {
+   "kind": "scholarship",
+   "title": "Tamil Nadu Engineering Excellence Scholarship",
+   "provider": "Sample State Technical Board",
+   "amount": "₹35,000 per year",
+   "deadline": "2026-12-10",
+   "description": "For students whose home state is Tamil Nadu.",
+   "criteria": {
+    "states": [
+     "Tamil Nadu"
+    ],
+    "min_cgpa": 7.0
+   }
+  }
+ ]
+}

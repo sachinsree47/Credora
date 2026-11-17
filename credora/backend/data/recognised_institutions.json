@@ -1,0 +1,25 @@
+{
+ "note": "SAMPLE DATA for the prototype. Replace with the official AICTE / UGC / AISHE institution list before real use.",
+ "institutions": [
+  {
+   "code": "SIT-4471",
+   "name": "Sample Institute of Technology"
+  },
+  {
+   "code": "ECE-2210",
+   "name": "Example College of Engineering"
+  },
+  {
+   "code": "DIT-3305",
+   "name": "Demo Institute of Technology and Science"
+  },
+  {
+   "code": "NCE-1187",
+   "name": "Northfield College of Engineering"
+  },
+  {
+   "code": "RGU-5540",
+   "name": "Riverside Global University"
+  }
+ ]
+}
